@@ -2,17 +2,15 @@
 
 ## My Favorite Movie
 
-![How to Train Your Dragon](https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg)
-
 ### About the Movie
-*How to Train Your Dragon* is one of my favorite animated movies because of its amazing story, beautiful animation, and lovable characters. It tells the story of **Hiccup**, a young Viking who becomes friends with a dragon named **Toothless**, changing how their world sees dragons.
+*How to Train Your Dragon* is one of my favorite animated movies because it has a great story, amazing animation, and memorable characters. It follows **Hiccup**, a young Viking, who forms an unexpected friendship with a dragon named **Toothless**, changing how people see dragons.
 
 ### Why I Like It
-- Great story and character development  
-- Inspiring friendship between Hiccup and Toothless  
-- Amazing flying scenes  
-- Emotional and meaningful message  
-- Fun and memorable soundtrack  
+- Inspiring story  
+- Strong friendship between Hiccup and Toothless  
+- Exciting action scenes  
+- Emotional moments  
+- Beautiful soundtrack  
 
 ### My Favorite Quote
 > "Everything we know about you guys is wrong."
@@ -29,4 +27,4 @@
 
 ---
 #### Final Thoughts
-This movie teaches us that understanding others is better than fighting them. It is a fun, emotional, and inspiring movie that I would highly recommend to everyone.
+This movie teaches the importance of friendship, trust, and understanding others. It is a fun and meaningful movie that I really enjoy watching.
