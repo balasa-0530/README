@@ -1,30 +1,53 @@
-# How to Train Your Dragon
+# How to Train Your Dragon 🐉
 
 ## My Favorite Movie
 
-### About the Movie
-*How to Train Your Dragon* is one of my favorite animated movies because it has a great story, amazing animation, and memorable characters. It follows **Hiccup**, a young Viking, who forms an unexpected friendship with a dragon named **Toothless**, changing how people see dragons.
+### About
+How to Train Your Dragon is my favorite movie because it is fun and exciting. I like how **Hiccup** became friends with **Toothless** and showed that dragons are not bad.[^1]
 
-### Why I Like It
-- Inspiring story  
-- Strong friendship between Hiccup and Toothless  
-- Exciting action scenes  
-- Emotional moments  
-- Beautiful soundtrack  
+### Simple Info Table
 
-### My Favorite Quote
+| Topic | Info |
+|------|------|
+| Movie | How to Train Your Dragon |
+| Main Character | Hiccup |
+| Dragon | Toothless |
+| Rating | 10/10 |
+
+### Characters
+Hiccup
+: A Viking boy.
+
+Toothless
+: A black dragon and Hiccup's friend.
+
+Astrid
+: Hiccup's friend and a strong fighter.
+
+### Quote
 > "Everything we know about you guys is wrong."
 
-### Main Characters
-1. Hiccup  
-2. Toothless  
-3. Astrid  
-4. Stoick the Vast  
-5. Gobber  
+### Small Code Example
+```python
+movie = "How to Train Your Dragon"
+rating = 10
 
-### Rating
-**10/10 ⭐**
+if rating == 10:
+    print("Great movie!")
+```
 
----
-#### Final Thoughts
-This movie teaches the importance of friendship, trust, and understanding others. It is a fun and meaningful movie that I really enjoy watching.
+### My Opinion
+~~Dragons are scary~~  
+I think ==dragons are cool== 😄
+
+### Checklist
+- [x] Watched the movie
+- [x] Liked the story
+- [x] Favorite dragon is Toothless
+- [ ] Watch again soon
+
+### Extra
+H~2~O is water  
+2^3^ = 8
+
+[^1]: This movie was released in 2010.
